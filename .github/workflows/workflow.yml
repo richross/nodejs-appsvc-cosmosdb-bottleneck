@@ -2,7 +2,7 @@
 
 name: Sample App deploy
 
-# Controls when the workflow will run
+# Controls when the workflow will 
 on:
   push:
       branches:
